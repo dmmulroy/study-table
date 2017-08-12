@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "study-table monorepo",
   "scripts": {
-    "start": ""
+    "start": "concurrently --allow-restart \"npm start --prefix study-table-api/\" \"npm start --prefix study-table-ui/\""
   },
   "author": "",
   "license": "ISC",
