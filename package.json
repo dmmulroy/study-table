@@ -1,0 +1,13 @@
+{
+  "name": "study-table",
+  "version": "0.0.1",
+  "description": "study-table monorepo",
+  "scripts": {
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.5.0"
+  }
+}
