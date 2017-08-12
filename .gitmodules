@@ -1,0 +1,6 @@
+[submodule "study-table-ui"]
+	path = study-table-ui
+	url = git@gitlab.com:dmmulroy/study-table-ui.git
+[submodule "study-table-api"]
+	path = study-table-api
+	url = git@gitlab.com:dmmulroy/study-table-api.git
