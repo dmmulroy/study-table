@@ -1,6 +1,8 @@
 [submodule "study-table-ui"]
 	path = study-table-ui
-	url = git@github.com:dmmulroy/study-table-ui.git
+    url = git@github.com:dmmulroy/study-table-ui.git
+    branch = develop
 [submodule "study-table-api"]
 	path = study-table-api
-	url = git@github.com:dmmulroy/study-table-api.git
+    url = git@github.com:dmmulroy/study-table-api.git
+    branch = develop
