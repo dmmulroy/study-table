@@ -1,5 +1,8 @@
 # How to run Study Table
 
+## Dependencies
+ - postgresql 9.6
+
 ```bash
 git clone git@github.com:dmmulroy/study-table.git && cd study-table && ./bootstrap.sh && npm start
 ```
